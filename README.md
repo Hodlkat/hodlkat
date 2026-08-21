@@ -1,16 +1,39 @@
-## Hi there 👋
+# 🐱 HODLKAT
 
-<!--
-**Hodlkat/hodlkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## The Cat That HODLs
 
-Here are some ideas to get you started:
+Welcome to the official HODLKAT project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HODLKAT is a community-driven meme coin project built on Solana, inspired by cats, memes, and the HODL culture.
+
+## 🚀 Vision
+
+Our goal is to build a fun, recognizable and community-focused meme brand around the simple idea:
+
+**Stay strong. Stay patient. HODL. 🐱💎**
+
+## 🌐 Website
+
+https://hodlekat.chimartglobalconstruct.workers.dev/
+
+## 🪙 Blockchain
+
+**Solana**
+
+## 🐾 Community
+
+HODLKAT is built around its community, creativity, memes and the spirit of holding through the journey.
+
+## 📌 Project Status
+
+HODLKAT is an evolving community project. More information, features and community initiatives will be added as the project develops.
+
+## ⚠️ Disclaimer
+
+HODLKAT is a meme/community project. Nothing on this page constitutes financial or investment advice.
+
+---
+
+### 🐱 HODLKAT
+
+**The Cat That HODLs.**
