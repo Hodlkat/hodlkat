@@ -2,7 +2,7 @@
 
 ## The Cat That HODLs
 
-Welcome to the official HODLKAT project.
+Welcome to the Official HODLKAT project hub.
 
 HODLKAT is a community-driven meme coin project built on Solana, inspired by cats, memes, and the HODL culture.
 
