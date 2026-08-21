@@ -14,7 +14,7 @@ Our goal is to build a fun, recognizable and community-focused meme brand around
 
 ## 🌐 Website
 
-https://hodlekat.chimartglobalconstruct.workers.dev/
+https://hodlkat.hodlpaws.workers.dev/
 
 ## 🪙 Blockchain
 
